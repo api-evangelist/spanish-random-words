@@ -39,7 +39,6 @@ apis:
   - name: Spanish random words
     description: "Generate spanish words randomly"
     humanURL: https://palabras-aleatorias-public-api.herokuapp.com
-    baseURL: https://palabras-aleatorias-public-api.herokuapp.com
     tags:
       - Test Data
     properties:
