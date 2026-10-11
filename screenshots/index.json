@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "spanish-random-words",
+    "captured_at": "2026-10-11T193039",
+    "source_url": "https://palabras-aleatorias-public-api.herokuapp.com",
+    "source_type": "Website",
+    "file": "spanish-random-words-2026-10-11T193039.png",
+    "bytes": 195244,
+    "capture": "playwright-local"
+  }
+]
